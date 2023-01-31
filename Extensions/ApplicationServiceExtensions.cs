@@ -28,7 +28,7 @@ namespace App1.Extensions
             services.AddAutoMapper(typeof(AutoMapperProfiles).Assembly);
             services.Configure<CloudinarySettings>(config.GetSection("CloudinarySettings"));
             services.AddScoped<IPhotoService, PhotoService>();
-
+            services.AddScoped<LogUserActivity>();
             return services;
 
         }

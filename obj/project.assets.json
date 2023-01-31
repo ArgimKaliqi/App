@@ -2193,6 +2193,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://proget.softfair-local.de:81/nuget/nuget-softfair/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
