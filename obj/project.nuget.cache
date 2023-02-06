@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eMdANS7Hx6I5+w+tGMMVkyYi//tn3E+fm5J7VIGu525Wuo8i0jVxrkOquOds6ebS5MIlNIooJmv++XETC0BkCw==",
+  "dgSpecHash": "l7cd0zSIe67ey4mVdVV2a02E6vzxCB8nTykmvL39K1GmtkfpYucA169Dyo/P+pMbm5cFv1S3rquw5kpOD6lDPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Argim Kaliqi\\source\\repos\\App1\\App1.csproj",
+  "projectFilePath": "C:\\Users\\Argim Kaliqi\\source\\repos\\DatingApp\\App1\\App1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Argim Kaliqi\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Argim Kaliqi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
