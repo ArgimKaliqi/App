@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BxCObb+xnZZxWNFkhtZqtgg9S9LhI1u37HLWnxULad+/SvtF8mhk+/ZK3GVk0YEpYXoioNCrPLdvLRGrGLgKng==",
+  "dgSpecHash": "9jNuRFEM+g61Qsumk/jpoqVa08i+dRlQHA4f+kDkSP35ugW85ik2kLFeZDwfVIlXIyWMv9bNZ+Ah/LkJPseFGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Argim Kaliqi\\source\\repos\\DatingApp\\App1\\App1.csproj",
+  "projectFilePath": "C:\\Users\\Argim Kaliqi\\Desktop\\Mix\\App1\\App1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Argim Kaliqi\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Argim Kaliqi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
@@ -64,12 +64,5 @@
     "C:\\Users\\Argim Kaliqi\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
     "C:\\Users\\Argim Kaliqi\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://proget.softfair-local.de:81/nuget/nuget-softfair/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }
