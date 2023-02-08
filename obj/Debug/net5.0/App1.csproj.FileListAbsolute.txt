@@ -85,7 +85,6 @@ C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\bin\Debug\net5.0\App1.deps.jso
 C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\bin\Debug\net5.0\App1.runtimeconfig.json
 C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\bin\Debug\net5.0\App1.runtimeconfig.dev.json
 C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\bin\Debug\net5.0\App1.dll
-C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\bin\Debug\net5.0\ref\App1.dll
 C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\bin\Debug\net5.0\App1.pdb
 C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
@@ -141,7 +140,6 @@ C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\obj\Debug\net5.0\App1.csproj.C
 C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\obj\Debug\net5.0\App1.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\obj\Debug\net5.0\App1.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\obj\Debug\net5.0\staticwebassets\App1.StaticWebAssets.Manifest.cache
-C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\obj\Debug\net5.0\staticwebassets\App1.StaticWebAssets.xml
 C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\obj\Debug\net5.0\scopedcss\bundle\App1.styles.css
 C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\obj\Debug\net5.0\App1.RazorTargetAssemblyInfo.cache
 C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\obj\Debug\net5.0\App1.csproj.CopyComplete
@@ -149,3 +147,10 @@ C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\obj\Debug\net5.0\App1.dll
 C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\obj\Debug\net5.0\ref\App1.dll
 C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\obj\Debug\net5.0\App1.pdb
 C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\obj\Debug\net5.0\App1.genruntimeconfig.cache
+C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\bin\Debug\net5.0\App1.StaticWebAssets.xml
+C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\obj\Debug\net5.0\staticwebassets\App1.StaticWebAssets.Pack.cache
+C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\obj\Debug\net5.0\staticwebassets\msbuild.App1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\obj\Debug\net5.0\staticwebassets\msbuild.build.App1.props
+C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.App1.props
+C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.App1.props
+C:\Users\Argim Kaliqi\source\repos\DatingApp\App1\obj\Debug\net5.0\refint\App1.dll
